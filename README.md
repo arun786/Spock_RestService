@@ -233,7 +233,7 @@ The Web client configuration
     }
 
 
-The api configuration for url
+The api configuration for url ( note :: webservice rest service should be up for all the test to pass)
     
     client:
       url:
@@ -244,4 +244,6 @@ The api configuration for url
 when you run ./gradlew 
 
 on the terminal, a report is generated as below
+
+![report generated](https://github.com/arun786/basicspockspringrest/blob/master/src/main/resources/image/Screen%20Shot%202020-07-28%20at%209.50.38%20PM.png)
 
