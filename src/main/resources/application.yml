@@ -1,0 +1,7 @@
+server:
+  port: 8090
+
+client:
+  url:
+    mockUrl: "http://localhost:8443/v1/profiles"
+    mockActuatorUrl: "http://localhost:8443/actuator/health"

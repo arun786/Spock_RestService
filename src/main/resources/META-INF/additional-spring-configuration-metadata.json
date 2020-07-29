@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "client.url.mockUrl",
+      "type": "java.lang.String",
+      "description": "Description for client.url.mockUrl."
+    },
+    {
+      "name": "client.url.mockActuatorUrl",
+      "type": "java.lang.String",
+      "description": "Description for client.url.mockActuatorUrl."
+    }
+  ] }
