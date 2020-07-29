@@ -1,4 +1,4 @@
-# basicspockspringrest
+# Spock framework used to test Spring boot microservices with gradle
 
 The below repo uses spock framework to test rest microservice mock service.
 
